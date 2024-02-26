@@ -1,0 +1,2 @@
+from .word_repository import WordRepository
+from .adapters.gpt_word_repository import GPTWordRepository

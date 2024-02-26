@@ -1,0 +1,1 @@
+from src.word.adapters.gpt_word_repository import MockGPTWordRepository
